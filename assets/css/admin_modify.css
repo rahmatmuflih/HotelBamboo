@@ -1,0 +1,22 @@
+.btn-utama{
+    background-color: #a5b636;
+    border-color: #a5b636;
+    color: white;
+}
+.btn-utama:hover{
+    background-color: #a4a036 !important;
+    border-color: #a4a036 !important;
+    color: white;
+}
+.btn-utama:focus{
+    background-color: #a4a036 !important;
+    border-color: #a4a036 !important;
+    color: white;
+}
+.input-semua:focus{
+    outline-color: #a5b636;
+    border-color: #a5b636;
+}
+.login:hover{
+    color:#7a8628 !important;
+}
